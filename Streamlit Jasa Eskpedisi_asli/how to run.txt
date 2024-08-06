@@ -1,0 +1,4 @@
+1. pastikan versi python 3.10
+2. Buka cmd pada folder
+3. jalankan pip install -r requirements.txt di cmd untuk menginstall library yang dibutuhkan
+4. jalankan streamlit run app.py
